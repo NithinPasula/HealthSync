@@ -112,7 +112,7 @@ const RenderInput = ({ field, props }: { field: any; props: CustomProps }) => {
             src="/assets/icons/calendar.svg"
             height={24}
             width={24}
-            alt="user"
+            alt="calender"
             className="ml-2"
           />
           <FormControl>
