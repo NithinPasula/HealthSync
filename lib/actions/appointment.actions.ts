@@ -135,7 +135,7 @@ export const createAppointment = async (
 
 //     if (!updatedAppointment) throw Error;
 
-//     const smsMessage = `Greetings from CarePulse. ${
+//     const smsMessage = `Greetings from HealthSync. ${
 //       type === "schedule"
 //         ? `Your appointment is confirmed for ${
 //             formatDateTime(appointment.schedule!, timeZone).dateTime
